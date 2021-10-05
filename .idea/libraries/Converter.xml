@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Converter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Converter/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Converter/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Converter/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
